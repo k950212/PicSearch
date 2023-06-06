@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PicSearch/static/css/main.15c52a16.css",
+    "main.js": "/PicSearch/static/js/main.1ee56cbe.js",
+    "index.html": "/PicSearch/index.html",
+    "main.15c52a16.css.map": "/PicSearch/static/css/main.15c52a16.css.map",
+    "main.1ee56cbe.js.map": "/PicSearch/static/js/main.1ee56cbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c52a16.css",
+    "static/js/main.1ee56cbe.js"
+  ]
+}
